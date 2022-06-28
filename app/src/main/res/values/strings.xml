@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="photo">photo</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="enter_your_e_mail">Enter your e-mail:</string>
+    <string name="enter_your_password">Enter your password:</string>
+    <string name="enter_your_username">Enter your username:</string>
+    <string name="terms_of_service">By Signing up, you agree to Photo\'s <u>terms of Service</u> and <u>Privacy Policy</u>.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="profile">Profile</string>
+    <string name="username">username</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log out</string>
+    <string name="toast_invalid_mail">Please enter the valid mail!</string>
+    <string name="toast_empty_field">Please fill in all the fields!</string>
+    <string name="toast_pass_size">Password must contain at least 8 characters!</string>
+    <string name="toast_username_size">Username must contain at least 10 characters!</string>
+    <string name="toast_success_register">You have successfully registered!</string>
+    <string name="toast_already_registered">You have already registered! try by another e-mail.</string>
+    <string name="toast_log_out">You have successfully logged out!</string>
+    <string name="toast_log_in">You have successfully logged in!</string>
+    <string name="toast_incorect_values">Email or password is incorrect! Try again.</string>
+</resources>
